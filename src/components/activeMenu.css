@@ -1,0 +1,6 @@
+/* styles.css (or any CSS file) */
+.active-menu {
+  color: whitesmoke; /* Add your preferred style for the active menu item */
+  font-weight: bold;
+  text-shadow:  1px 1px 1px rgba(255, 252, 252, 0.669);
+}
